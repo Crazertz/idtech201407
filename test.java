@@ -2,6 +2,6 @@ class test
 {
 	public static void main(String[] args)
 	{
-		System.out.prinln("Welcome to Minecraft!!!");
+		System.out.prinln("Welcome to Minecraft!");
 	}
 }
